@@ -11,11 +11,17 @@ This will grow as I find more resources.
 # Data
 
 Human Mortality Database
+
 Human Fertility Database
+
 AnAge
+
 COMPADRE Plant Matrix Database
+
 COMADRE Animal Matrix Database (coming soon)
-Gapminder
+
+Gap Under
+
 Pantheria - life history database for mammals.
 
 # Tools
@@ -23,11 +29,13 @@ Pantheria - life history database for mammals.
 The primary tool I use for analysis, data exploration and visualisation is R. Others choose to use Matlab, Python or other languages.
 
 R
+
 Matlab
 
 In R there are a few packages that are great for teaching biodemography.
 
 poptools
+
 basta
 
 
